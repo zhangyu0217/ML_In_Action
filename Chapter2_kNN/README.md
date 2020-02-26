@@ -21,3 +21,5 @@
 # Personal understanding
 + This method is no more effective than rectangular cut method or decision tree.
 + Because it almost selects a sphere around the test event and count the fequency of labels  
++ This method treats all the dimensions equal, so we do not know which dimension is the most significant.
++ \corlor{#ea4335}{Question} : What is the boundary of the classfication for a give sample?
