@@ -13,4 +13,11 @@
 + Input : JSON file containing training sample
 + Output : the k leading events and the result. It is perfect if there is a visualization.
 # Advantage
++ Easy for understanding and implementation.
++ No need to know the model or distribution of different labels
++ Not sensitive to the exotic event.
 # Disadvantage
++ Computational complexity grows up when the dimension grows up.
+# Personal understanding
++ This method is no more effective than rectangular cut method or decision tree.
++ Because it almost selects a sphere around the test event and count the fequency of labels  
