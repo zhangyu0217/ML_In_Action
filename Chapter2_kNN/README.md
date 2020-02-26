@@ -23,3 +23,4 @@
 + Because it almost selects a sphere around the test event and count the fequency of labels  
 + This method treats all the dimensions equal, so we do not know which dimension is the most significant.
 + <font color=red>Question</font>: What is the boundary of the classfication for a give sample?
++ $\color{red}{test}$
