@@ -24,5 +24,5 @@
 + This method treats all the dimensions equal, so we do not know which dimension is the most significant.
 
 ```diff
-- <span style="color:red">Question</span>: What is the boundary of the classfication for a give sample?
+- Question : What is the boundary of the classfication for a give sample?
 ```
