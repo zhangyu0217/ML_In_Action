@@ -10,8 +10,10 @@
 + The size of training sample and the quantity of k.
 + The key of the implementation is to build a vector for each event.
 + Acatually a general IO systema could be build.
-+ `Input : JSON file containing training sample`
-+ `Output : the k leading events and the result. It is perfect if there is a visualization.`
+```diff
+! Input : JSON file containing training sample
+! Output : the k leading events and the result. It is perfect if there is a visualization.
+```
 # Advantage
 + Easy for understanding and implementation.
 + No need to know the model or distribution of different labels
