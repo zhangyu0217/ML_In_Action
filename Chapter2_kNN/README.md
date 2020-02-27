@@ -24,5 +24,9 @@
 + This method treats all the dimensions equal, so we do not know which dimension is the most significant.
 
 ```diff
-- Question : What is the boundary of the classfication for a give sample?
+- Question : What is the boundary of the classfication for a given sample?
 ```
+```diff
+- Question : How is the kNN's performance compared with LD?
+```
+
