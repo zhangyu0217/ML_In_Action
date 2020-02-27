@@ -1,8 +1,9 @@
 # Label
 ```diff
 ! To do
-+ Open question
+- Open question
 ```
+******
 # What is kNN?
   kNN means the k-nearest neighbouring. It is a supervised machine learning method.
 # Strategy
